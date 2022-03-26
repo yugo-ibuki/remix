@@ -13,3 +13,7 @@ https://remix.run/docs/en/v1/pages/stacks
 ```
 npx remix init
 ```
+
+## 参考
+https://dev.classmethod.jp/articles/remix-starter-kit/
+
